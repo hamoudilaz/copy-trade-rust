@@ -1,0 +1,21 @@
+# Build output
+/target/
+
+# Rust/Cargo
+**/*.rs.bk
+Cargo.lock
+
+# IDE/editor files
+/.idea/
+/.vscode/
+*.swp
+*.swo
+
+# OS-generated
+.DS_Store
+Thumbs.db
+
+# Binaries
+*.exe
+*.out
+*.log
